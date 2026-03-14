@@ -1,0 +1,7 @@
+# MCVerify Plugin Configuration
+
+bridge:
+  # URL of the Python Discord bot bridge server
+  url: "http://eu-ey.purpify.host:26047"
+  # Must match BRIDGE_SECRET in the bot's .env file
+  secret: "RUNEMC100"
